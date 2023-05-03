@@ -1,7 +1,7 @@
 <section class="header">
   <div class="container">
     <div class="left-column">
-      <img src="img/myprofilepic.jpeg" alt="Your Name" class="profile-picture">
+      <img src="img/myprofilepic.jpeg" alt="Your Name" width="30%" height="30%" class="profile-picture">
       <h1>Your Name</h1>
       <p>XR Engineer</p>
     </div>
