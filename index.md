@@ -1,22 +1,13 @@
----
-layout: default
-title: Home
----
-
-{% comment %}
-Header section
-{% endcomment %}
 <section class="header">
   <div class="container">
     <div class="left-column">
-      <img src="your-profile-picture.jpg" alt="Your Name" class="profile-picture">
+      <img src="img/myprofilepic.jpeg" alt="Your Name" width="30%" height="30%" class="profile-picture">
       <h1>Your Name</h1>
       <p>XR Engineer</p>
     </div>
     <div class="right-column">
       <h2>Career Summary</h2>
-      <p>XR engineer with 3 years of experience in developing and implementing augmented reality and virtual reality solutions. Skilled in Unity3D, C#, and 3D modeling. A proven track record of delivering high-quality XR applications on time and within budget.</p>
-      <a href="your-resume.pdf" class="button">Download Resume</a>
+      <p>XR engineer with 3 years of experience in creating immersive experiences that engage and inspire users. Proficient in Unity3D, Unreal Engine, C#, Kotlin, C++, and Python. Skilled in project management, agile development, and user experience design. Committed to creating and improving dynamic, user-friendly, and feature-rich software. Uses analytical abilities and great attention to detail to offer unique and efficient software solutions, give technical knowledge and experience, and design new applications or software from the ground up.</p>
     </div>
   </div>
 </section>
@@ -28,33 +19,16 @@ Project section
   <div class="container">
     <h2>Projects</h2>
     <div class="project-grid">
-      {% comment %}
-      Project 1
-      {% endcomment %}
       <div class="project-card">
-        <h2>Project 1</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae felis libero. Fusce tincidunt enim ac libero dapibus, vel varius metus aliquam. Donec finibus ullamcorper libero, non suscipit ipsum maximus nec.</p>
+        <h2>Subway Surfers Clone</h2>
+        <p>A replica of subway surfers game, created in Unity3D and C# back then in my bachelor's</p>
+        <a href="https://github.com/abrar-khan-368/runner-game" class="button">View Project</a>
+      </div>
+      <div class="project-card">
+        <h2>Corgi - The Fox</h2>
+        <p>A 2D Platformer game similar to Mario, project was created with Unity and C#</p>
         <a href="#" class="button">View Project</a>
       </div>
-      {% comment %}
-      Project 2
-      {% endcomment %}
-      <div class="project-card">
-        <h2>Project 2</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae felis libero. Fusce tincidunt enim ac libero dapibus, vel varius metus aliquam. Donec finibus ullamcorper libero, non suscipit ipsum maximus nec.</p>
-        <a href="#" class="button">View Project</a>
-      </div>
-      {% comment %}
-      Project 3
-      {% endcomment %}
-      <div class="project-card">
-        <h2>Project 3</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae felis libero. Fusce tincidunt enim ac libero dapibus, vel varius metus aliquam. Donec finibus ullamcorper libero, non suscipit ipsum maximus nec.</p>
-        <a href="#" class="button">View Project</a>
-      </div>
-      {% comment %}
-      Add more projects here...
-      {% endcomment %}
     </div>
   </div>
 </section>
