@@ -1,11 +1,3 @@
----
-layout: default
-title: Home
----
-
-{% comment %}
-Header section
-{% endcomment %}
 <section class="header">
   <div class="container">
     <div class="left-column">
