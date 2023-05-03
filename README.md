@@ -19,20 +19,14 @@ Project section
   <div class="container">
     <h2>Projects</h2>
     <div class="project-grid">
-      {% comment %}
-      Project 1
-      {% endcomment %}
       <div class="project-card">
-        <h2>Project 1</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae felis libero. Fusce tincidunt enim ac libero dapibus, vel varius metus aliquam. Donec finibus ullamcorper libero, non suscipit ipsum maximus nec.</p>
-        <a href="#" class="button">View Project</a>
+        <h2>Subway Surfers Clone</h2>
+        <p>A replica of subway surfers game, created in Unity3D and C# back then in my bachelor's</p>
+        <a href="https://github.com/abrar-khan-368/runner-game" class="button">View Project</a>
       </div>
-      {% comment %}
-      Project 2
-      {% endcomment %}
       <div class="project-card">
-        <h2>Project 2</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae felis libero. Fusce tincidunt enim ac libero dapibus, vel varius metus aliquam. Donec finibus ullamcorper libero, non suscipit ipsum maximus nec.</p>
+        <h2>Corgi - The Fox</h2>
+        <p>A 2D Platformer game similar to Mario, project was created with Unity and C#</p>
         <a href="#" class="button">View Project</a>
       </div>
     </div>
