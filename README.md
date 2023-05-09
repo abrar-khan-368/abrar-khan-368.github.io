@@ -2,7 +2,7 @@
   <div class="container">
     <div class="left-column">
       <img src="img/myprofilepic.jpeg" alt="Your Name" width="30%" height="30%" class="profile-picture">
-      <h1>Your Name</h1>
+      <h1>Abrar Lohia</h1>
       <p>XR Engineer</p>
     </div>
     <div class="right-column">
