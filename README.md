@@ -12,9 +12,6 @@
   </div>
 </section>
 
-{% comment %}
-Project section
-{% endcomment %}
 <section class="projects">
   <div class="container">
     <h2>Projects</h2>
