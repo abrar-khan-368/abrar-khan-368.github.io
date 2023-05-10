@@ -12,9 +12,6 @@
   </div>
 </section>
 
-{% comment %}
-Project section
-{% endcomment %}
 <section class="projects">
   <div class="container">
     <h2>Projects</h2>
@@ -27,7 +24,12 @@ Project section
       <div class="project-card">
         <h2>Corgi - The Fox</h2>
         <p>A 2D Platformer game similar to Mario, project was created with Unity and C#</p>
-        <a href="#" class="button">View Project</a>
+        <a href="https://github.com/abrar-khan-368/Corgi-The-Fox" class="button">View Project</a>
+      </div>
+      <div class="project-card">
+        <h2>Lending Club Data Analysis</h2>
+        <p>This project is all about showing lending risk for bank. As a part of lisk analysis we are using loan data and trying to identify the key features which can lead to a risk.</p>
+        <a href="https://github.com/abrar-khan-368/lending-club-case-study" class="button">View Project</a>
       </div>
     </div>
   </div>
