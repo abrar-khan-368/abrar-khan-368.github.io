@@ -7,7 +7,7 @@
     </div>
     <div class="right-column">
       <h2>Career Summary</h2>
-      <p>XR engineer with 3 years of experience in creating immersive experiences that engage and inspire users. Proficient in Unity3D, Unreal Engine, Android Studio, C#, Kotlin, C++, and Python. Skilled in project management, agile development, and user experience design. Committed to creating and improving dynamic, user-friendly, and feature-rich software. Uses analytical abilities and great attention to detail to offer unique and efficient software solutions, give technical knowledge and experience, and design new applications or software from the ground up.</p>
+      <p>Experienced XR Engineer with 3 years of immersive experience creation. Proficient in Unity3D, Unreal Engine, Android Studio, C#, Kotlin, C++, and Python. Skilled in project management, agile development, and user experience design. Committed to delivering dynamic, user-friendly, and feature-rich software solutions. Strong analytical abilities and attention to detail. Passionate about creating captivating user experiences.</p>
     </div>
   </div>
 </section>
